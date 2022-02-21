@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to digi info
 
 You can use the [editor on GitHub](https://github.com/Rutuja-Kelkar/digi_info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
