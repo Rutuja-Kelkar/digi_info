@@ -1,14 +1,13 @@
 ## DIGI INFO 
 
-## Background
-
-## Scope
+## Background and scope
 
 ## Expected and acctual outcomes
 
+
 ## Venture Timeline
 
-## Team
+## Team and colloboration
 
 ## Venture strategy
 
