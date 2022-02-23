@@ -6,7 +6,7 @@ Note : Please try to read my digi_info story on desktop / laptop for best websit
 
 Peak pandemic hit india, colleges were shut down and running online. Since I had few placement offers in hand plus loads of time at home, I decided to experiment and build some cool stuff.
   
-  Since it was lockdown in 2020, we were forced to sit at home, so the only things thast I could experiment was with a laptop and an internet connection. I started searching what was I good at and found : I was decent at devlivering topics since I had done it multiple times at my college and events. Plus I had observed a tremendous skill gap in what was taught in college and industry requirement. So, I decided to start a skill development platform to help build real lif skills to engineering grads / learners. 
+  Since it was lockdown in 2020, we were forced to sit at home, so the only things thast I could experiment was with a laptop and an internet connection. I started searching what was I good at and found : I was decent at delivering topics since I had done it multiple times at my college and events. Plus I had observed a tremendous skill gap between what was taught in college and present industry requirement. So, I decided to start a skill development platform to help build real lif skills to engineering grads / learners. 
   
 ## Background and scope
 
