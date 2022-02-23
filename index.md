@@ -37,11 +37,13 @@ Below is the detailed information on digi_info venture for those interested, tak
 
 ## Deatiled information regarding DIGI INFO venture 
 
+## Expected and acctual impact
+
 ## Timeline 
 
 ## Team and colloboration 
 
-## Venture strategy
+## Strategy
 
 ## Design
 
