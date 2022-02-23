@@ -1,4 +1,4 @@
-## DIGI INFO 
+### DIGI INFO 
 
 ## Background and scope
 
