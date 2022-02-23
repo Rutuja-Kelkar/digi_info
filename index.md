@@ -8,9 +8,14 @@ Peak pandemic hit india, colleges were shut down and running online. Since I had
   
   Since it was lockdown in 2020, we were forced to sit at home, so the only things thast I could experiment was with a laptop and an internet connection. I started searching what was I good at and found : I was decent at delivering topics since I had done it multiple times at my college and events. Plus I had observed a tremendous skill gap between what was taught in college and present industry requirement. So, I decided to start a skill development platform to help build real lif skills to engineering grads / learners. 
   
-  I conducted webinars, open discussion sessions, developed an webinar integrated system that had automated emails, certificate generation, registration forms, timely reminders, integrations and a whole handbook on "How to conduct webinar's from scratch" by oct 2021.
+  I conducted webinars, open discussion sessions, developed an integratedwebinar system that had automated emails, certificate generation, registration forms, timely reminders, integrations and a whole handbook on "How to conduct webinar's from scratch" by oct 2021.
   
-## Background and scope
+  I hosted topics like "How to crack interview rounds", "How to build resume", "how to communicate well", "how to crack technical rounds". I knew C and html language too, took sessions for the same - These were few topics my small mind could think of back then.
+  
+   I used multiple tools like hubspot, trello, google analytics, bitly etc to pull off the entire process.
+   
+   Soon I realised building was not enough and marketing wa next big challenge came my way. I built a small team of 2 juniors from my engineering college
+  
 
 ## Expected and acctual impact
 
