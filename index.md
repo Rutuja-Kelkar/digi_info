@@ -18,7 +18,8 @@ Peak pandemic hit india, colleges were shut down and running online. Since I had
   
   
  ## Challenges I faced during building digi_info 
- When I decided to work on digi_info I knew nothing about.
+ 
+ When I decided to work on digi_info I knew nothing about : 
   1   How to build a webinar system.
   2.  How to build a strong community.
   3.  How to reach your target audience.
@@ -41,10 +42,12 @@ Learnt all this and more because I loved solving these high quality challenges. 
 
 All my learnings, process and set up is documented for future use. I love documentating stuff! I can go back to conducting webinars anytime I wish too! And Guess what all this was built without spending a single penny, all I spent was my time, curiosity, power supply and an internet connection.
 
- **I made a few mistakes**
+ **I made a few mistakes :**
   1. In the initial days I tried to ghost myself and not revel my complete identity due to poor confidence, which was a bad idea and it would never work in long run
+  2. I was obsessed with doing it all alone, but later realised its faster when you delegate tasks & build a strong team, having thema say in the process.
+  3. Everytime I conducted a webinar, I noted the mistakes and made sure to improvise next time.
 
-Below is the detailed information on digi_info venture for those interested, take a look !
+Below is the detailed information on digi_info venture for those interested in knowing depth problem solving, take a look !
 
 ## Deatiled information regarding DIGI INFO venture 
 
