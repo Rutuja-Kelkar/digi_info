@@ -18,7 +18,7 @@ Peak pandemic hit india, colleges were shut down and running online. Since I had
    
    But I learnt it all because I was resilient enough to say to myself : "Hey there, you'll figure out + there was clear target in my mind". I kept on failing, but everytime I failed or others pointed out where I went wrong, those points were noted and I made sure it was improed the next time.I was able to pull this off in less than 3 months. I observed myself working lightning fast and improvise on the way. 
 
-## Challenges I faced during building digi_info :
+**Challenges I faced during building digi_info :**
   1. How to reach your target audience.
   2. How to build a strong community.
   3. How to convert and retajin your audience.
@@ -30,7 +30,8 @@ Learnt all thie and more because I loved solving these high quality challenges. 
 
 All my learnings, process and set up is documented for future use. I lve documentating stuff! I can go back to conducting webinars anytime I wish too! And Guess what all this was built without spending a single penny, all that was spent was my time, power supply and an internet connection.
 
-### I made a few mistakes 
+ **I made a few mistakes**
+  1. In the initial days I tried to ghost myself and not revel my complete identity due to poor confidence, which was a bad idea and it would never work in long run
 
 Below is the detailed information on digi_info venture for those interested, take a look !
 
