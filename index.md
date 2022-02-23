@@ -1,3 +1,4 @@
+Note : Please try to read the amazing story of digi info on desktop / laptop for best website experience.
 ## DIGI INFO 
 
 ## Background and scope
@@ -6,7 +7,7 @@
 
 ## Venture Timeline
 
-## Team and colloboration
+## Team and colloboration 
 
 ## Venture strategy
 
@@ -21,8 +22,6 @@
 ## Community model
 
 ## Failures and iteration
-
-
 
 
 
