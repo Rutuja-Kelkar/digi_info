@@ -1,4 +1,49 @@
-## DIGI INFO
+## DIGI INFO 
+
+## Background
+
+## Scope
+
+## Expected and acctual outcomes
+
+## Venture Timeline
+
+## Team
+
+## Venture Timeline
+
+## Venture strategy
+
+## Design
+
+## Development 
+
+## Testing
+
+## Marketing
+
+## Community model
+
+## Failures and iteration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Rutuja-Kelkar/digi_info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
