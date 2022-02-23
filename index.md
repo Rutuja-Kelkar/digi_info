@@ -10,12 +10,13 @@ Peak pandemic hit india, colleges were shut down and running online. Since I had
   
   I conducted webinars, open discussion sessions, developed an integratedwebinar system that had automated emails, certificate generation, registration forms, timely reminders, integrations and a whole handbook on "How to conduct webinar's from scratch" by oct 2021.
   
-  I hosted topics like "How to crack interview rounds", "How to build resume", "how to communicate well", "how to crack technical rounds". I knew C and html language too, took sessions for the same - These were few topics my small mind could think of back then.
-  
-   I used multiple tools like hubspot, trello, google analytics, bitly etc to pull off the entire process.
+  I hosted topics like "How to crack interview rounds", "How to build resume", "how to communicate well", "how to crack technical rounds". I knew C and html language too, took sessions for the same - These were few topics my small mind could think of back then.Made use of multiple tools like hubspot, trello, google analytics, bitly etc to pull off the entire process.
    
-   Soon I realised building was not enough and marketing wa next big challenge came my way. I built a small team of 2 juniors from my engineering college
-  
+   Soon I realised building was not enough and marketing wa next big challenge came my way. I built a small team of 2 juniors from my engineering college and delegated work to them, since it was foolish to do everything alone.Soon a 3000+ student member community which helped them learn skills was built.
+   
+   When I decided to work on digi_info I knew nothing about "How to build a webinar system", "How to build a community", "How to market", "How to advertise", "How to tap in people's mind about ypu product/ idea", "How to deliver topics effectively", "Ho to talk to people in a convincing manner", "How to get things done in zero budget (because I had no budget at that point of time)", "How to build a team" etc Damn! I knew nothig. 
+   
+   But I learnt it all because I was resilient enough to say to myself : "Hey there, you'll figure out + there was clear target in my mind". I kept on failing, but everytime I failed or others pointed out where I went wrong, those points were noted and I made sure it was improed the next time.I was able to pull this off in less than 3 months. I observed myself working lightning fast and improvise on the way. 
 
 ## Expected and acctual impact
 
