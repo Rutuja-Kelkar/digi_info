@@ -18,7 +18,21 @@ Peak pandemic hit india, colleges were shut down and running online. Since I had
    
    But I learnt it all because I was resilient enough to say to myself : "Hey there, you'll figure out + there was clear target in my mind". I kept on failing, but everytime I failed or others pointed out where I went wrong, those points were noted and I made sure it was improed the next time.I was able to pull this off in less than 3 months. I observed myself working lightning fast and improvise on the way. 
 
-## Expected and acctual impact
+## Challenges I faced during building digi_info :
+  1. How to reach your target audience.
+  2. How to build a strong community.
+  3. How to convert and retajin your audience.
+  4. How to segment audience according  to your product and grow in compaunded rates.
+  5. How to stand out and compete with exiting solutions in the market.
+  6. How to build and guide a small team.
+
+Learnt all thie and more because I loved solving these high quality challenges. I studied community and marketing models of companies in depth.You amy have a great product, but unless ypu have great distribution which is value based, your customers will not stick with you. A community model has the power to penetrate to your customers heart.
+
+All my learnings, rocess and set up is documented for future use. I lve documentating stuff! I can go back to conducting webinars anytime I wish too! 
+
+Below is the detailed information on digi_info venture. 
+
+# Deatiled information regarding DIGI INFO venture 
 
 ## Venture Timeline
 
