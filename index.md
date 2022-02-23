@@ -1,5 +1,5 @@
 Note : Please try to read the amazing story of digi info on desktop / laptop for best website experience.
-## DIGI INFO 
+## Introduction
 
 ## Background and scope
 
