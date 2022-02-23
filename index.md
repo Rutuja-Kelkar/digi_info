@@ -18,7 +18,7 @@ Peak pandemic hit india, colleges were shut down and running online. Since I had
    
    But I learnt it all because I was resilient enough to say to myself : "Hey there, you'll figure out + there was clear target in my mind". I kept on failing, but everytime I failed or others pointed out where I went wrong, those points were noted and I made sure it was improed the next time.I was able to pull this off in less than 3 months. I observed myself working lightning fast and improvise on the way. 
 
-**Challenges I faced during building digi_info :**
+## Challenges I faced during building digi_info 
   1. How to reach your target audience.
   2. How to build a strong community.
   3. How to convert and retajin your audience.
@@ -37,7 +37,9 @@ Below is the detailed information on digi_info venture for those interested, tak
 
 ## Deatiled information regarding DIGI INFO venture 
 
-## Timeline Team and colloboration 
+## Timeline 
+
+## Team and colloboration 
 
 ## Venture strategy
 
