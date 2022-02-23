@@ -28,15 +28,15 @@ Peak pandemic hit india, colleges were shut down and running online. Since I had
 
 Learnt all thie and more because I loved solving these high quality challenges. I studied community and marketing models of companies in depth.You amy have a great product, but unless ypu have great distribution which is value based, your customers will not stick with you. A community model has the power to penetrate to your customers heart.
 
-All my learnings, rocess and set up is documented for future use. I lve documentating stuff! I can go back to conducting webinars anytime I wish too! And Guess what all this was built without spending a single penny, all that was spent was my time, power supply and an internet connection.
+All my learnings, process and set up is documented for future use. I lve documentating stuff! I can go back to conducting webinars anytime I wish too! And Guess what all this was built without spending a single penny, all that was spent was my time, power supply and an internet connection.
+
+### I made a few mistakes 
 
 Below is the detailed information on digi_info venture for those interested, take a look !
 
-# Deatiled information regarding DIGI INFO venture 
+## Deatiled information regarding DIGI INFO venture 
 
-## Timeline
-
-## Team and colloboration 
+## Timeline Team and colloboration 
 
 ## Venture strategy
 
