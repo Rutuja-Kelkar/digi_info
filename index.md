@@ -24,7 +24,7 @@ Peak pandemic hit india, colleges were shut down and running online. Since I had
   
  When I decided to work on digi_info I knew nothing about : 
  
-  1   How to build a webinar system.
+  1.  How to build a webinar system
   2.  How to build a strong community.
   3.  How to reach your target audience.
   4.  How to convert and retain your audience.
