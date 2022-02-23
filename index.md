@@ -2,7 +2,7 @@
 
 ## Background and scope
 
-## Expected and acctual outcomes
+## Expected and acctual impact
 
 ## Venture Timeline
 
