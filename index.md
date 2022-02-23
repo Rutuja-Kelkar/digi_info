@@ -34,7 +34,7 @@ Below is the detailed information on digi_info venture for those interested, tak
 
 # Deatiled information regarding DIGI INFO venture 
 
-## Venture Timeline
+## Timeline
 
 ## Team and colloboration 
 
