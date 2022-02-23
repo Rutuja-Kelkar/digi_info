@@ -23,6 +23,7 @@ Peak pandemic hit india, colleges were shut down and running online. Since I had
 ## Challenges faced while building digi_info
   
  When I decided to work on digi_info I knew nothing about : 
+ 
   1   How to build a webinar system.
   2.  How to build a strong community.
   3.  How to reach your target audience.
