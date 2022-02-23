@@ -1,7 +1,7 @@
 Note : Please try to read my digi_info story on desktop / laptop for best website experience.
 
 
-## I started digi_info during last semester of my engineering  
+## I built digi_info during last semester of my engineering  
 **July 2020 - may 2021**
 
 Peak pandemic hit india, colleges were shut down and running online. Since I had few placement offers in hand plus loads of time at home, I decided to experiment and build some cool stuff.
