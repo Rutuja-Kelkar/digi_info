@@ -72,7 +72,7 @@ Below is the detailed information on digi_info venture for those interested in r
 
 ## Development 
 
-## Testing
+## Quality assurance
 
 ## Live webinar experiences
 
