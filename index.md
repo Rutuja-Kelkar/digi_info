@@ -1,5 +1,7 @@
 Note : Please read my digi_info story on desktop / laptop for best website experience.
 
+Published on : 23rd feb 2022
+
 **************************************************************************************************************************************************************************
 
 ## I built digi_info during last semester of my engineering  
