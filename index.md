@@ -1,6 +1,6 @@
 **Note :** Please read my digi_info story on desktop / laptop for best website experience.
 
-**Author : ** Rutuja Kelkar
+**Author :** Rutuja Kelkar
 
 **Published on :** 22nd Feb 2022
 
