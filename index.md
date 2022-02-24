@@ -7,7 +7,8 @@
 **Project quality, depth & content :** High 
 
 **Let's connect :** 
-rutujakelkar.tech@gmail.com | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.linkedin.com/in/rutuja-kelkar/) | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
+rutujakelkar.tech@gmail.com | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.linkedin.com/in/rutuja-kelkar/) | [Github](https://github.com/Rutuja-Kelkar)
+| [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
 
 **********************************************************************************************************************************************************************************
 
@@ -90,10 +91,11 @@ Below is the detailed information on digi_info venture for those interested in r
 Thank you for visiting and scrolling through my digi info venture. If you'd like to talk about this project or just chat, I'd love to hear from you :)
 
 
-**Let's connect :** rutujakelkar.tech@gmail.com | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.linkedin.com/in/rutuja-kelkar/) | [Github](https://github.com/Rutuja-Kelkar)
+**Let's connect :** 
+rutujakelkar.tech@gmail.com | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.linkedin.com/in/rutuja-kelkar/) | [Github](https://github.com/Rutuja-Kelkar)
 | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
 
-- Rutuja Kelkar
+-Rutuja Kelkar
 
 
 
