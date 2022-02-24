@@ -7,7 +7,7 @@
 **Project quality, depth & content :** High 
 
 **Let's connect :** 
-rutujakelkar.tech@gmail.com | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.linkedin.com/in/rutuja-kelkar/) | [Github](https://github.com/Rutuja-Kelkar) | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
+rutujakelkar.tech@gmail.com | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.behance.net/RutujaKelkarDesigns) | [Github](https://github.com/Rutuja-Kelkar) | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
 
 **********************************************************************************************************************************************************************************
 
@@ -34,7 +34,7 @@ Peak pandemic hit india, colleges were shut down and running online. Since I had
  When I decided to work on digi_info I knew nothing about : 
  
   1.  How to build a webinar system.
-  2.  How to make your productd / service valuable.
+  2.  How to make your product / service valuable.
   3.  How to build a strong community.
   4.  How to reach your target audience.
   5.  How to convert and retain your audience.
@@ -91,7 +91,7 @@ Thank you for visiting and scrolling through my digi info venture. If you'd like
 
 
 **Let's connect :** 
-rutujakelkar.tech@gmail.com | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.linkedin.com/in/rutuja-kelkar/) | [Github](https://github.com/Rutuja-Kelkar) | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
+rutujakelkar.tech@gmail.com | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.behance.net/RutujaKelkarDesigns) | [Github](https://github.com/Rutuja-Kelkar) | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
 
 -Rutuja Kelkar
 
