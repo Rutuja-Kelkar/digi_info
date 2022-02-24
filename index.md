@@ -1,4 +1,4 @@
-Note : Please try to digi_info story on desktop / laptop for best website experience.
+Note : Please read my digi_info story on desktop / laptop for best website experience.
 
 **************************************************************************************************************************************************************************
 
@@ -52,7 +52,7 @@ All my learnings, process and set up is documented for future use. I love docume
   2. I was obsessed with doing it all alone, but later realised its faster when you delegate tasks & build a strong team, having them a say in the process.
   3. Everytime I conducted a webinar, I noted the mistakes and made sure to improvise next time.
 
-Below is the detailed information on digi_info venture for those interested in knowing depth problem solving, take a look !
+Below is the detailed information on digi_info venture for those interested in reading depth problem solving, take a look !
 
 **************************************************************************************************************************************************************************
 
