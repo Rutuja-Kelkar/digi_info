@@ -20,7 +20,7 @@ Peak pandemic hit india, colleges were shut down and running online. Since I had
   
   I hosted topics like "How to crack interview rounds", "How to build resume", "how to communicate well", "how to crack technical rounds". I knew C and html language too, took sessions for the same - These were few topics my small mind could think of back then. Made use of multiple tools like hubspot, trello, google analytics, bitly, code etc to pull off the entire process.
    
-   Soon I realised building was not enough and marketing was next big challenge came my way. I built a small team of 2 juniors from my engineering college and delegated work to them, since it was foolish to do everything alone. Soon a 3000+ student member community was built which helped them learn real life skills.
+   Soon I realised building was not enough and marketing was next big challenge came my way. I built a small team of 2 juniors from my engineering college and delegated work to them, since it was foolish to do everything alone. In leass than 6 months a 3000+ student member community was built which helped them learn real life skills, make themselves valuable and competitive in the market.
   
 ## Challenges faced while building digi_info
   
