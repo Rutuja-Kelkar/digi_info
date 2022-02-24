@@ -58,7 +58,7 @@ Below is the detailed information on digi_info venture for those interested in r
 
 **************************************************************************************************************************************************************************
 
-## Deatiled information regarding DIGI INFO venture 
+## Indepth info about digi_info
 
 ## Expected and acctual impact
 
