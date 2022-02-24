@@ -58,15 +58,13 @@ Below is the detailed information on digi_info venture for those interested in r
 
 **************************************************************************************************************************************************************************
 
-## Indepth info about digi_info
+## Indepth info | digi_info
 
-## Expected and acctual impact
+## Expected | Acctual impact
 
-## Timeline 
+## Timeline | Strategy | Planning 
 
-## Team and colloboration 
-
-## Strategy
+## Team | Colloboration 
 
 ## Design
 
@@ -78,7 +76,7 @@ Below is the detailed information on digi_info venture for those interested in r
 
 ## Marketing : Community model
 
-## Failures and iteration
+## Failures | Iterations
 
 
 **************************************************************************************************************************************************************************
