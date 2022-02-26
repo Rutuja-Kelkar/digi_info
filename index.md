@@ -55,20 +55,23 @@ Damn! I knew nothing !
 Learnt all this and more because I loved solving these high quality challenges. I studied community and marketing models of companies in depth.You may have a great product, but unless you have great distribution which is value based, your customers will not stick with you. A community model has the power to penetrate to your customers heart.
 
 All my learnings, process and set up is documented for future use. I love documentating stuff! I can go back to conducting webinars anytime I wish too! And Guess what all this was built without spending a single penny, all I spent was my time, curiosity, power supply and an internet connection.
-
+<br>
+<br>
+<br>
+<br>
 #### **I made a few mistakes :** 
 <br>
   - In the initial days I tried to ghost myself and not revel my complete identity due to poor               confidence, which was a bad idea and it would never work in long run.
   - I was obsessed with doing it all alone, but later realised its faster when you delegate tasks &         build a strong team, having them a say in the process.
   - Everytime I conducted a webinar, I noted the mistakes and made sure to improvise next time.
 
-Below is the detailed information on digi_info venture for those interested in reading depth problem solving, take a look !
-
+Below is the detailed information on digi_info venture for those interested in reading depth problem solving, take a look ! <br>
+<br>
+<br>
 **************************************************************************************************************************************************************************
-
+<br>
+<br>
 #### Indepth Information regarding digi info venture
-<br>
-<br>
 <br>
 <br>
 ## Expected | Acctual impact
@@ -81,10 +84,8 @@ In july 2020, After I realised I was decent at delivering topics and had a clear
 <br>
 <br>
 <br>
-<br>
 #### **Vision of digi_info**   :<br>
 To build a platform to bridge skill gap between what was taught in college and present industry requirements.
-<br>
 <br>
 <br>
 <br>
@@ -111,17 +112,19 @@ Since all my friends and me were experiencing the exact same as mentioned above,
 The next challege I came across was to find out what excat service / product should I offer to solve the above mentioned issues. <br> 
 <br>
 <br>
-<br>
-<br>
 #### **What exactly I offered ** :<br>
 
 I started small with avilable resourses at hand and decided to conduct :
 - Webinar sessions
 - Open discussion sessions 
 - Informative blogs / posts
+<br>
+<br>
+<br>
+#### **Who was my end user ** :<br>  
 
-  
-**Who was my end user : **
+By now, it was very clear my end user will be :<br>
+- 
 
 **Wondering what was the acctual impact :**
 Here is goes :
