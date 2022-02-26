@@ -69,7 +69,7 @@ Below is the detailed information on digi_info venture for those interested in r
 
 ## Expected | Acctual impact
 
-## Timeline | Strategy | Planning 
+## Roadmap | Timeline
 
 ## Team | Colloboration 
 
