@@ -67,8 +67,10 @@ Below is the detailed information on digi_info venture for those interested in r
 **************************************************************************************************************************************************************************
 
 #### Indepth Information regarding digi info venture
-
-
+<br>
+<br>
+<br>
+<br>
 ## Expected | Acctual impact
 
 In july 2020, After I realised I was decent at delivering topics and had a clear vision on building a platform to bridge skill gap between colleges and present industry requirements I immedialtely faced 3 major questions that would define the entire story and outcome of digi_info :
@@ -80,18 +82,17 @@ In july 2020, After I realised I was decent at delivering topics and had a clear
 <br>
 <br>
 <br>
-#### Vision of digi_info :<br>
+#### **Vision of digi_info**   :<br>
 To build a platform to bridge skill gap between what was taught in college and present industry requirements.
 <br>
 <br>
 <br>
 <br>
 #### **Factors that led me to work on this vision** :<br>
-- Personally, its was my last semester of engineering I had loads of time to experiment, think and build something cool at home during pandemic.<br>
+- Personally, its was my last semester of engineering plus I had palcements offers, hence there was loads of time to think and build something cool at home during pandemic.<br>
 
 - College system was quite frustrating, those long assignments / exams had no real world application nor was useful in the real world. Plus the syllabus was way too behind than the present industry requirements. None of it was hands on / project based learning.<br>
-
-*I'm not the only one saying  this, take a look at [Sundar pichai's](https://www.youtube.com/watch?v=-J2vedFn8KA) take on the same * <br>
+  _I'm not the only one saying  this, take a look at [Sundar pichai's](https://www.youtube.com/watch?v=-    J2vedFn8KA) take on the same_ <br>
 
 - College killed the very defination of "learning" itself : they made students memory cards instead       of making them CPU's.<br>
 
@@ -102,16 +103,24 @@ To build a platform to bridge skill gap between what was taught in college and p
 - Stay stuck in a system and think of survival all their life. <br>
 
 - Lastly, the employment rates among youth sore due to lack of real life skills.<br>
+<br>
+<br>
+Since all my friends and me were experiencing the exact same as mentioned above, I had a strong urge and vision to solve above issues and generate enough skill plus awareness among youth to make themselves valuable in the world. Real education is free, mostly accquired by observation, experimentation, hands on learning and hence all my sessions were conducted for free.<br>
+<br>
+<br>
+The next challege I came across was to find out what excat service / product should I offer to solve the above mentioned issues. <br> 
+<br>
+<br>
+<br>
+<br>
+#### **What exactly I offered ** :<br>
 
+I started small with avilable resourses at hand and decided to conduct :
+- Webinar sessions
+- Open discussion sessions 
+- Informative blogs / posts
 
-
-
- 
   
-  
-  
-  
-**What exactly I offered as a service :**
 **Who was my end user : **
 
 **Wondering what was the acctual impact :**
