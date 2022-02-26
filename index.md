@@ -68,7 +68,7 @@ Below is the detailed information on digi_info venture for those interested in r
 ## Indepth info | digi_info
 
 
-## Expected Vision | Acctual impact
+## Expected | Acctual impact
 
 In july 2020, After I realised I was decent at delivering topics and had a clear vision on building a platform to bridge skill gap between colleges and present industry requirements I immedialtely faced 3 major questions that would define the entire story and outcome of digi_info :
 
@@ -81,13 +81,14 @@ In july 2020, After I realised I was decent at delivering topics and had a clear
 To build a platform to bridge skill gap between what was taught in college and present industry requirements.
 
 
-**Factors that led me to work on this vision :**
-  1. Personally, its was my last semester of engineering I had loads of time to experiment, think and        build something cool at home during pandemic.
-  2. College system was quite frustrating, those long assignments / exams had no real world                  application nor was useful in the real world.
-  3. College killed the very defination of "learning" itself : they made students memory cards instead        of making them CPU's.
-  4. Most colleges were built on business models making student's their customers making "placements"         as key selling points.
-  5. Colleges killed curiosity and experimental nature and made student's risk averse
-  6. Stay stuck in a system and think of survival all their life.
+#### Factors that led me to work on this vision :
+- Personally, its was my last semester of engineering I had loads of time to experiment, think and         build something cool at home during pandemic.
+- College system was quite frustrating, those long assignments / exams had no real world                   application nor was useful in the real world. Plus the syllabus was way too behind than the present     industry requirements. None of it was hands on/ project based learnig.
+- College killed the very defination of "learning" itself : they made students memory cards instead       of making them CPU's.
+- Most colleges (not all) were built on business models making student's their customers and               "placements" as key selling point.
+- Colleges killed curiosity and experimental nature and made student's risk averse.
+- Stay stuck in a system and think of survival all their life.
+ 
   
   
   
