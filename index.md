@@ -67,9 +67,36 @@ Below is the detailed information on digi_info venture for those interested in r
 
 ## Indepth info | digi_info
 
-## Expected | Acctual impact
+## Expected Vision | Acctual impact
+
+In july 2020, After I realised I was decent at delivering topics and had a clear vision on building a platform to bridge skill gap between colleges and present industry requirements I immedialtely faced 3 major questions that would define the entire story and outcome of digi_info :
+
+  1. Vision of digi_info venture
+  2. What exactly I'm going to offer as a service/ product ? 
+  3. Who is my end user ?
+
+
+**Vision of digi_info :**
+To build a platform to bridge skill gap between what was taught in college and present industry requirements.
+
+**Factors that led me to work on this vision :**
+  1.*Colleges made sudents memory cards instaed of making them CPU's.*
+  
+    Oftent itmes 
+
+
+**What exactly I offered as a service :**
+**Who was my end user : **
+
+**Wondering what was the acctual impact :**
+Here is goes :
+
+
+
 
 ## Roadmap | Timeline
+
+The next major hurdle was : "How I'm I supposed to do this ?"
 
 ## Team | Colloboration 
 
