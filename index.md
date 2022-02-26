@@ -7,7 +7,7 @@
 **Project quality, depth & content :** High 
 
 **Let's connect :** 
-rutujakelkar.tech@gmail.com | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.behance.net/RutujaKelkarDesigns) | [Github](https://github.com/Rutuja-Kelkar) | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
+<rutujakelkar.tech@gmail.com> | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.behance.net/RutujaKelkarDesigns) | [Github](https://github.com/Rutuja-Kelkar) | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
 
 **********************************************************************************************************************************************************************************
 
@@ -42,7 +42,7 @@ Peak pandemic hit india, colleges were shut down and running online. Since I had
   7.  How to market.
   8.  How to advertise.
   9.  How to stand out and compete with exiting solutions in the market.
-  10.  How to tap in people's mind about your product / idea
+  10. How to tap in people's mind about your product / idea
   11. How to deliver topics effectively.
   12. Ho to talk with people in a convincing manner
   13. How to get things done in zero budget (because I had no budget at that point of time)
@@ -77,17 +77,23 @@ In july 2020, After I realised I was decent at delivering topics and had a clear
   3. Who is my end user ?
 
 
-**Vision of digi_info :**
+#### Vision of digi_info :
 To build a platform to bridge skill gap between what was taught in college and present industry requirements.
 
 
+
+
 #### Factors that led me to work on this vision :
-- Personally, its was my last semester of engineering I had loads of time to experiment, think and         build something cool at home during pandemic.
-- College system was quite frustrating, those long assignments / exams had no real world                   application nor was useful in the real world. Plus the syllabus was way too behind than the present     industry requirements. None of it was hands on/ project based learnig.
+- Personally, its was my last semester of engineering I had loads of time to experiment, think and build something cool at home during pandemic.
+- College system was quite frustrating, those long assignments / exams had no real world application nor was useful in the real world. Plus the syllabus was way too behind than the present     industry requirements. None of it was hands on / project based learning.
+*I'm not the only one saying  this, take a look at [Sundar pichai's](https://www.youtube.com/watch?v=-J2vedFn8KA) take on the same *
 - College killed the very defination of "learning" itself : they made students memory cards instead       of making them CPU's.
 - Most colleges (not all) were built on business models making student's their customers and               "placements" as key selling point.
 - Colleges killed curiosity and experimental nature and made student's risk averse.
 - Stay stuck in a system and think of survival all their life.
+
+
+Since I was 
  
   
   
@@ -126,7 +132,7 @@ Thank you for visiting and scrolling through my digi info venture. If you'd like
 
 
 **Let's connect :** 
-rutujakelkar.tech@gmail.com | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.behance.net/RutujaKelkarDesigns) | [Github](https://github.com/Rutuja-Kelkar) | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
+<rutujakelkar.tech@gmail.com> | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.behance.net/RutujaKelkarDesigns) | [Github](https://github.com/Rutuja-Kelkar) | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
 
 -Rutuja Kelkar
 
