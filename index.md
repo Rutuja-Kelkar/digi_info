@@ -66,7 +66,7 @@ Below is the detailed information on digi_info venture for those interested in r
 
 **************************************************************************************************************************************************************************
 
-> **Indepth info | digi_info**
+#### Indepth Information regarding digi info venture
 
 
 ## Expected | Acctual impact
@@ -76,25 +76,36 @@ In july 2020, After I realised I was decent at delivering topics and had a clear
   - Vision of digi_info venture
   - What exactly I'm going to offer as a service/ product ? 
   - Who is my end user ?
-
-
+<br>
+<br>
+<br>
+<br>
 #### Vision of digi_info :<br>
 To build a platform to bridge skill gap between what was taught in college and present industry requirements.
+<br>
+<br>
+<br>
+<br>
+#### **Factors that led me to work on this vision** :<br>
+- Personally, its was my last semester of engineering I had loads of time to experiment, think and build something cool at home during pandemic.<br>
+
+- College system was quite frustrating, those long assignments / exams had no real world application nor was useful in the real world. Plus the syllabus was way too behind than the present industry requirements. None of it was hands on / project based learning.<br>
+
+*I'm not the only one saying  this, take a look at [Sundar pichai's](https://www.youtube.com/watch?v=-J2vedFn8KA) take on the same * <br>
+
+- College killed the very defination of "learning" itself : they made students memory cards instead       of making them CPU's.<br>
+
+- Most colleges (not all) were built on business models making student's their customers and               "placements" as key selling point. <br>
+
+- Colleges killed curiosity and experimental nature and made student's risk averse. <br>
+
+- Stay stuck in a system and think of survival all their life. <br>
+
+- Lastly, the employment rates among youth sore due to lack of real life skills.<br>
 
 
 
 
-#### Factors that led me to work on this vision :<br>
-- Personally, its was my last semester of engineering I had loads of time to experiment, think and build something cool at home during pandemic.
-- College system was quite frustrating, those long assignments / exams had no real world application nor was useful in the real world. Plus the syllabus was way too behind than the present     industry requirements. None of it was hands on / project based learning.<br>
-*I'm not the only one saying  this, take a look at [Sundar pichai's](https://www.youtube.com/watch?v=-J2vedFn8KA) take on the same *
-- College killed the very defination of "learning" itself : they made students memory cards instead       of making them CPU's.
-- Most colleges (not all) were built on business models making student's their customers and               "placements" as key selling point.
-- Colleges killed curiosity and experimental nature and made student's risk averse.
-- Stay stuck in a system and think of survival all their life.
-
-
-Since I was 
  
   
   
@@ -125,7 +136,7 @@ The next major hurdle was : "How I'm I supposed to do this ?"
 
 ## Marketing : Community model
 
-## Failures | Iterations
+## Failures| Mistakes| Iterations
 
 
 **************************************************************************************************************************************************************************
