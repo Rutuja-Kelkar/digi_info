@@ -64,8 +64,9 @@ All my learnings, process and set up is documented for future use. I love docume
 Below is the detailed information on digi_info venture for those interested in reading depth problem solving, take a look !
 
 **************************************************************************************************************************************************************************
-
+'''
 ## Indepth info | digi_info
+'''
 
 ## Expected Vision | Acctual impact
 
@@ -80,9 +81,13 @@ In july 2020, After I realised I was decent at delivering topics and had a clear
 To build a platform to bridge skill gap between what was taught in college and present industry requirements.
 
 **Factors that led me to work on this vision :**
-  1.*Colleges made sudents memory cards instaed of making them CPU's.*
+  1.Personally, its was my last semester of engineering I had loads of time to experiment, think and         build something cool at home during pandemic.
+  2.College system was quite frustrating, those long assignments / exams had no real world         application nor was useful in the real world.
+  3.College killed the very defination of "learning" itself : they made students memory cards instead of     making them CPU's.
+  4.Most colleges were built on business models making student's their customers making "placements"         as key selling points.
   
-    Oftent itmes 
+  
+    
 
 
 **What exactly I offered as a service :**
