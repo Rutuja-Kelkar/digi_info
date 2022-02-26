@@ -93,41 +93,51 @@ To build a platform to bridge skill gap between what was taught in college and p
 
 - College system was quite frustrating, those long assignments / exams had no real world application nor was useful in the real world. Plus the syllabus was way too behind than the present industry requirements. None of it was hands on / project based learning.
 <br>
-  _I'm not the only one saying  this, take a look at [Sundar pichai's](https://www.youtube.com/watch?v=-    J2vedFn8KA) take on the same_ <br>
+  _I'm not the only one saying  this, take a look at [Sundar pichai's](https://www.youtube.com/watch?v=-    J2vedFn8KA), [Naval Ravikant's](https://www.youtube.com/watch?v=_YltxkgTyvE) take on the same._ <br>
 
-- College killed the very defination of "learning" itself : they made students memory cards instead       of making them CPU's.<br>
+- College kills the very defination of "learning" itself : they made students memory cards instead of making them CPU's.<br>
 
-- Most colleges (not all) were built on business models making student's their customers and               "placements" as key selling point. <br>
+- Most colleges (not all) were built on business models making student's their customers and "placements" as key selling point. <br>
 
-- Colleges killed curiosity and experimental nature and made student's risk averse. <br>
+- Colleges kills curiosity and experimental nature and make student's risk averse. <br>
 
 - Stay stuck in a system and think of survival all their life. <br>
-
-- Lastly, the employment rates among youth sore due to lack of real life skills.<br>
+  
+- Lastly, the enginering employment rates among youth sore due to lack of real life skills.<br>
+    _Take a look at [India today's article](https://www.indiatoday.in/education-today/featurephilia/story/80-engineers-are-unemployed-how-can-we-prepare-engineers-for-the-jobs-of-tomorrow-1468240-2019-03-01) on unemployment._ <br>
 <br>
 <br>
 Since all my friends and me were experiencing the exact same as mentioned above, I had a strong urge and vision to solve above issues and generate enough skill plus awareness among youth to make themselves valuable in the world. Real education is free, mostly accquired by observation, experimentation, hands on learning and hence all my sessions were conducted for free.<br>
 <br>
 <br>
-The next challege I came across was to find out what excat service / product should I offer to solve the above mentioned issues. <br> 
+The next challege I came across was to find out what exact service / product should I offer to solve the above mentioned issues. <br> 
 <br>
 <br>
 #### **What exactly I offered ** :<br>
 
-I started small with avilable resourses at hand and decided to conduct :
+I started small with available resourses at hand and decided to conduct :
 - Webinar sessions
 - Open discussion sessions 
 - Informative blogs / posts
+- Type of venture : Business to consumer (B2C, services, contributing my time)
 <br>
 <br>
 <br>
 #### **Who was my end user** :<br>  
-By now my audience / end user were crystal clear. I exactly knew who I was targeting and what value based outcomes I was expecting for them after they experience my webinars / sessions. <br>  
+By now my audience / end user were crystal clear. I exactly knew :
+- who I was targeting 
+- what were their pain points 
+- what are their desires / needs / mental models / level of awareness
+- And what value based outcomes I was expecting for them after they experience my webinars / sessions. <br>  
+
+Take a look at my [Ideal customer profile](https://plastic-cabinet-72f.notion.site/Ideal-customer-profile-0159ea041e284136bde9fdfbbf017d63) and [value based outcomes] (https://plastic-cabinet-72f.notion.site/Ideal-customer-profile-0159ea041e284136bde9fdfbbf017d63)  I was expecting after they experience my webinar / sessions 
 
 
 
 
-#### **Who was my end user ** :<br>  
+
+
+#### **Accual outccome** :<br>  
 
 Here is goes :
 
