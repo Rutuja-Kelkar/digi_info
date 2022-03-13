@@ -134,9 +134,10 @@ Take a look at my simple [Ideal customer profile](https://plastic-cabinet-72f.no
 <br>
 <br>
 <br>
-#### **Accual outcome report** :
+#### **Acctual outcome report** :<br>
 <br> 
-##### **Community report** : 
+**Community report**
+
 
 
 
