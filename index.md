@@ -4,10 +4,10 @@
 
 **Published on :** 22nd Feb 2022
 
-**Project quality, depth & content :** High | 10 min read
+**Project quality, depth & content :** High, 10 min read
 
 **Let's connect :** 
-<rutujakelkar.tech@gmail.com> | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.behance.net/RutujaKelkarDesigns) | [Github](https://github.com/Rutuja-Kelkar) | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
+<rutujakelkar.tech@gmail.com> | [My webiste](https://www.rutujakelkar.com/) | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.behance.net/RutujaKelkarDesigns) | [Github](https://github.com/Rutuja-Kelkar) | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
 
 **********************************************************************************************************************************************************************************
 
@@ -107,13 +107,13 @@ To build a platform to bridge skill gap between what was taught in college and p
     _Take a look at [India today's article](https://www.indiatoday.in/education-today/featurephilia/story/80-engineers-are-unemployed-how-can-we-prepare-engineers-for-the-jobs-of-tomorrow-1468240-2019-03-01) on unemployment._ <br>
 <br>
 <br>
-Since all my friends and me were experiencing the exact same as mentioned above, I had a strong urge and vision to solve above issues and generate enough skill plus awareness among youth to make themselves valuable in the world. Real education is free, mostly accquired by observation, experimentation, hands on learning and hence all my sessions were conducted for free.<br>
+Since all my friends and me were experiencing the exact same mentioned above, I had a strong urge and vision to solve above issues and generate enough skill plus awareness among youth to make themselves valuable in the world. Real education is free, mostly accquired by observation, experimentation, hands on learning and hence all my sessions were conducted for free.<br>
 <br>
 <br>
 The next challege I came across was to find out what exact service / product should I offer to solve the above mentioned issues. <br> 
 <br>
 <br>
-#### **What exactly I offered ** :<br>
+#### **What exactly I offered** :<br>
 
 I started small with available resourses at hand and decided to conduct :
 - Webinar sessions
@@ -130,16 +130,16 @@ By now my audience / end user were crystal clear. I exactly knew :
 - what are their desires / needs / mental models / level of awareness
 - And what value based outcomes I was expecting for them after they experience my webinars / sessions. <br>  
 
-Take a look at my [Ideal customer profile](https://plastic-cabinet-72f.notion.site/Ideal-customer-profile-0159ea041e284136bde9fdfbbf017d63) and [value based outcomes] (https://plastic-cabinet-72f.notion.site/Ideal-customer-profile-0159ea041e284136bde9fdfbbf017d63)  I was expecting after they experience my webinar / sessions 
+Take a look at my simple [Ideal customer profile](https://plastic-cabinet-72f.notion.site/Ideal-customer-profile-0159ea041e284136bde9fdfbbf017d63) and [value based outcomes](https://plastic-cabinet-72f.notion.site/Value-based-outcomes-after-attending-my-webinars-sessions-0aa54e6d13e9439fa6d7f76ed21cc1ef) I expected after my audience experiences my webinar / sessions.
+<br>
+<br>
+<br>
+#### **Accual outcome report** :
+<br> 
+##### **Community report** : 
 
 
 
-
-
-
-#### **Accual outccome** :<br>  
-
-Here is goes :
 
 
 
@@ -168,7 +168,7 @@ Thank you for visiting and scrolling through my digi info venture. If you'd like
 
 
 **Let's connect :** 
-<rutujakelkar.tech@gmail.com> | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.behance.net/RutujaKelkarDesigns) | [Github](https://github.com/Rutuja-Kelkar) | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
+<rutujakelkar.tech@gmail.com> | [My Webiste](https://www.rutujakelkar.com/) | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.behance.net/RutujaKelkarDesigns) | [Github](https://github.com/Rutuja-Kelkar) | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
 
 -Rutuja Kelkar
 
