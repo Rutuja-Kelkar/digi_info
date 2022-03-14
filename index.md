@@ -136,8 +136,10 @@ Take a look at my simple [Ideal customer profile](https://plastic-cabinet-72f.no
 <br>
 #### **Acctual outcome report** :<br>
 <br> 
-**Overall report**
-
+The best and simple method I used to create report and track visibility of the project were google sheets.
+<br>
+[![button](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327)
+Click [here](https://www.rutujakelkar.com/)to view detailed reports of digi info venture. Reports contain overal progress an
 
 
 
