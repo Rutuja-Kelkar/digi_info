@@ -114,7 +114,7 @@ The next challege I came across was to find out what exact service / product sho
 <br>
 <br>
 #### **What exactly I offered** :<br>
-
+<br>
 I started small with available resourses at hand and decided to conduct :
 - Webinar sessions
 - Open discussion sessions 
@@ -136,7 +136,10 @@ Take a look at my simple [Ideal customer profile](https://plastic-cabinet-72f.no
 <br>
 #### **Acctual outcome report** :<br>
 <br> 
-**Community report**
+**Overall report**
+
+
+
 
 
 
