@@ -135,15 +135,13 @@ Take a look at my simple [Ideal customer profile](https://plastic-cabinet-72f.no
 <br>
 <br>
 #### **Acctual outcome report** :<br>
-<br> 
-The best and simple method I used to create report and track visibility of the project were google sheets.
 <br>
-[Click me](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327){: .btn}
+The best and simple method I used to create report and track visibility of the project were google sheets and notion.
 <br>
-[![button](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327)
+[Check out] all project reports here(https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327)
 <br>
-Click [here](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327)
-<br>
+
+
 
 
 
