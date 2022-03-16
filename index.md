@@ -133,7 +133,7 @@ Take a look at my simple [Ideal customer profile](https://plastic-cabinet-72f.no
 <br>
 <br>
 <br>
-####  **Expected and actul reports** :
+#### **Expected vs actual reports** :
 The best and simple method I used to create report and track visibility of the project were google sheets and notion workspace.
 
 - [Check out](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327) all project reports \
