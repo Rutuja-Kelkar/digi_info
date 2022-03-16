@@ -133,10 +133,10 @@ Take a look at my simple [Ideal customer profile](https://plastic-cabinet-72f.no
 <br>
 <br>
 <br>
-#### **Expected & Actual outcome report** :
+####  **Expected and actul reports** :
 The best and simple method I used to create report and track visibility of the project were google sheets and notion workspace.
 
-- [Check out](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327) all project reports 
+- [Check out](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327) all project reports \
 - [Overall Project report](https://plastic-cabinet-72f.notion.site/Overall-project-report-digi-info-ae2b54c79d444b5f857aaf1f6d747bb0) Contains the following :
   - Digi info growth in percentage vs time 
   - Expected KPI vs achieved KPI
@@ -146,7 +146,7 @@ The best and simple method I used to create report and track visibility of the p
   - Audience conversion numbers (community growth) vs s.no of webinar
   - Design / dev / QA productivity vs timeline
   - Audience satisfaction in percentage vs s.no of webinar
-  - Expenditure (my time & effort + a laptop connection) in percentage vs s.no of webinar 
+  - Expenditure (my time & effort + a laptop connection) in percentage vs s.no of webinar \
 - [1st webinar report](https://plastic-cabinet-72f.notion.site/1st-webinar-reports-b05c925080fe43488a67b5ce4fa9dbc4)<br />
 - [2st webinar report](https://plastic-cabinet-72f.notion.site/2nd-webinar-reports-9e7612e2482c4ae182fc5e0008429d1c)<br />
 - [3rd webinar report](https://plastic-cabinet-72f.notion.site/3rd-webinar-reports-3ebdaef8daa8494b8256092709d3e5da)<br />
