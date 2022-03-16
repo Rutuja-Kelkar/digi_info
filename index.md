@@ -165,11 +165,11 @@ The best and simple method I used to create report and track visibility of the p
 #### Created a visual roadmap :
 Now that I had identified my problem statement and clear target audience, my next hurdle was to takle : "How exactly I'm I going to achieve this ?"
 
-Below is a mind map I created to break down the problem into smaller working parts to create an integrated working webinar system.
+Below is a mind map I created to break down the problem into smaller working parts to create an integrated working webinar system
 
 ![DIGI INFO_image](https://user-images.githubusercontent.com/66067675/158570180-519791c3-d1c6-4295-b777-3a53bf70cfdb.png)
 
-Here's a pdf of the same map for better readability [DIGI INFO Mindmap.pdf](https://github.com/Rutuja-Kelkar/digi_info/files/8261278/DIGI.INFO.pdf)
+Here's a [DIGI INFO Mindmap.pdf](https://github.com/Rutuja-Kelkar/digi_info/files/8261278/DIGI.INFO.pdf) for better readability
 
 I also had to come up with a meaningful name for my venture : DIGI INFO, which means digital information. Since my mission was to teach / create awareness about digital skills, hence the name.
 
