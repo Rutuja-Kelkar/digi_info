@@ -159,8 +159,8 @@ The best and simple method I used to create report and track visibility of the p
 - [Iteration report](https://plastic-cabinet-72f.notion.site/Iterations-report-3474811cf2364c988e8396458768190d)<br />
 <br>
 <br>
-<br>
-## Roadmap | Timeline
+
+## Roadmap| Timeline
 <br>
 #### Created a visual roadmap :
 Now that I had identified my problem statement and clear target audience, my next hurdle was to takle : "How exactly I'm I going to achieve this ?"
