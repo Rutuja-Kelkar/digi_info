@@ -157,31 +157,21 @@ The best and simple method I used to create report and track visibility of the p
 - [Quality assurance report](https://plastic-cabinet-72f.notion.site/Quality-assurance-report-efa53174c2624346bd02d3e6be726e19)<br />
 - [Project health report](https://plastic-cabinet-72f.notion.site/Project-health-report-e37dccf9a86349e2a515082bdc8aa3d3)<br />
 - [Iteration report](https://plastic-cabinet-72f.notion.site/Iterations-report-3474811cf2364c988e8396458768190d)<br />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
 ## Roadmap | Timeline
 Now that I had identified my problem statement and clear target audience, my next hurdle was to takle : "How exactly I'm I going to achieve this ?"
 
 Below is a mind map I created to break down the problem into smaller working parts to create an integrated working webinar system.
 
 ![DIGI INFO_image](https://user-images.githubusercontent.com/66067675/158570180-519791c3-d1c6-4295-b777-3a53bf70cfdb.png)
+
+Here's a pdf of the same map for better readability [DIGI INFO.pdf](https://github.com/Rutuja-Kelkar/digi_info/files/8261278/DIGI.INFO.pdf)
+
+
+
+
 
 
 I also had to decide a meaning name for my venture and came up with DIGI INFO : which means digital information. Since my mission was to teach / create awareness about digital skills, hence the name.
