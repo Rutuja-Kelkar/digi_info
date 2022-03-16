@@ -74,7 +74,7 @@ Below is the detailed information on digi_info venture for those interested in r
 #### **Indepth Information regarding digi info venture**
 <br>
 <br>
-## Expected | Acctual impact <br>
+## Expected | Acctual impact
 In july 2020, After I realised I was decent at delivering topics and had a clear vision on building a platform to bridge skill gap between colleges and present industry requirements I immedialtely faced 3 major questions that would define the entire story and outcome of digi_info :
 
   - Vision of digi_info venture
@@ -83,12 +83,12 @@ In july 2020, After I realised I was decent at delivering topics and had a clear
 <br>
 <br>
 <br>
-#### **Vision of digi_info**   :<br>
+#### **Vision of digi_info :**
 To build a platform to bridge skill gap between what was taught in college and present industry requirements.
 <br>
 <br>
 <br>
-#### **Factors that led me to work on this vision** :<br>
+#### **Factors that led me to work on this vision** :
 - Personally, its was my last semester of engineering plus I had palcements offers, hence there was loads of time to think and build something cool at home during pandemic.<br>
 
 - College system was quite frustrating, those long assignments / exams had no real world application nor was useful in the real world. Plus the syllabus was way too behind than the present industry requirements. None of it was hands on / project based learning.
@@ -113,7 +113,7 @@ Since all my friends and me were experiencing the exact same mentioned above, I 
 The next challege I came across was to find out what exact service / product should I offer to solve the above mentioned issues. <br> 
 <br>
 <br>
-####  **What exactly I offered** : <br />
+####  **What exactly I offered** :
 I started small with available resourses at hand and decided to conduct :
 - Webinar sessions
 - Open discussion sessions 
@@ -133,10 +133,10 @@ Take a look at my simple [Ideal customer profile](https://plastic-cabinet-72f.no
 <br>
 <br>
 <br>
-#### **Expected & Actual outcome report** : <br />
+#### **Expected & Actual outcome report** :
 The best and simple method I used to create report and track visibility of the project were google sheets and notion workspace.
 <br />
-- [Check out](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327) all project reports here
+- [Check out](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327) all project reports 
 - [Overall Project report](https://plastic-cabinet-72f.notion.site/Overall-project-report-digi-info-ae2b54c79d444b5f857aaf1f6d747bb0) Contains the following :
   - Digi info growth in percentage vs time 
   - Expected KPI vs achieved KPI
@@ -146,7 +146,7 @@ The best and simple method I used to create report and track visibility of the p
   - Audience conversion numbers (community growth) vs s.no of webinar
   - Design / dev / QA productivity vs timeline
   - Audience satisfaction in percentage vs s.no of webinar
-  - Expenditure (my time & effort + a laptop connection) in percentage vs s.no of webinar
+  - Expenditure (my time & effort + a laptop connection) in percentage vs s.no of webinar 
 - [1st webinar report](https://plastic-cabinet-72f.notion.site/1st-webinar-reports-b05c925080fe43488a67b5ce4fa9dbc4)<br />
 - [2st webinar report](https://plastic-cabinet-72f.notion.site/2nd-webinar-reports-9e7612e2482c4ae182fc5e0008429d1c)<br />
 - [3rd webinar report](https://plastic-cabinet-72f.notion.site/3rd-webinar-reports-3ebdaef8daa8494b8256092709d3e5da)<br />
