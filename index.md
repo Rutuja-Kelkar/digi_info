@@ -134,11 +134,11 @@ Take a look at my simple [Ideal customer profile](https://plastic-cabinet-72f.no
 <br>
 <br>
 <br>
-#### **Actual outcome report** :<br>
+#### **Expected & Actual outcome report** :<br>
 <br>
 The best and simple method I used to create report and track visibility of the project were google sheets and notion.
 <br>
-[Check out] all project reports here(https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327)
+[Check out] (https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327)all project reports here
 <br>
 
 
