@@ -136,7 +136,7 @@ Take a look at my simple [Ideal customer profile](https://plastic-cabinet-72f.no
 #### **Expected & Actual outcome report** : <br />
 The best and simple method I used to create report and track visibility of the project were google sheets and notion workspace.
 <br />
-[Check out] (https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327)all project reports here
+[Check out](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327)all project reports here
 <br />
 **Find all individual reports here :** <br />
 -[Overall Project report](https://plastic-cabinet-72f.notion.site/Overall-project-report-digi-info-ae2b54c79d444b5f857aaf1f6d747bb0)<br />
