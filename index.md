@@ -137,7 +137,7 @@ Take a look at my simple [Ideal customer profile](https://plastic-cabinet-72f.no
 The best and simple method I used to create report and track visibility of the project were google sheets and notion workspace.
 <br />
 - [Check out](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327) all project reports here
-- [Overall Project report](https://plastic-cabinet-72f.notion.site/Overall-project-report-digi-info-ae2b54c79d444b5f857aaf1f6d747bb0) Contains the following :<br />
+- [Overall Project report](https://plastic-cabinet-72f.notion.site/Overall-project-report-digi-info-ae2b54c79d444b5f857aaf1f6d747bb0) Contains the following :
   - Digi info growth in percentage vs time 
   - Expected KPI vs achieved KPI
   - Quality of webinar delivery in percentage vs s.no of webinar
