@@ -58,7 +58,7 @@ All my learnings, process and set up is documented for future use. I love docume
 <br>
 <br>
 <br>
-#### **I made a few mistakes :** <br>
+#### **I made a few mistakes :** 
   - In the initial days I tried to ghost myself and not revel my complete identity due to poor               confidence, which was a bad idea and it would never work in long run.
   - I was obsessed with doing it all alone, but later realised its faster when you delegate tasks &         build a strong team, having them a say in the process.
   - Everytime I conducted a webinar, I noted the mistakes and made sure to improvise next time.<br>
@@ -135,7 +135,7 @@ Take a look at my simple [Ideal customer profile](https://plastic-cabinet-72f.no
 <br>
 #### **Expected & Actual outcome report** :
 The best and simple method I used to create report and track visibility of the project were google sheets and notion workspace.
-<br />
+
 - [Check out](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327) all project reports 
 - [Overall Project report](https://plastic-cabinet-72f.notion.site/Overall-project-report-digi-info-ae2b54c79d444b5f857aaf1f6d747bb0) Contains the following :
   - Digi info growth in percentage vs time 
