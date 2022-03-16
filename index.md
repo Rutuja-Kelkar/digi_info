@@ -177,8 +177,15 @@ The best and simple method I used to create report and track visibility of the p
 
 
 ## Roadmap | Timeline
+Now that I had identified my problem statement and clear target audience, my next hurdle was to takle : "How exactly I'm I going to achieve this ?"
 
-The next major hurdle was : "How I'm I supposed to do this ?"
+Below is a mind map I created to break down the problem into smaller working parts to create an integrated working webinar system.
+
+![DIGI INFO_image](https://user-images.githubusercontent.com/66067675/158570180-519791c3-d1c6-4295-b777-3a53bf70cfdb.png)
+
+
+I also had to decide a meaning name for my venture and came up with DIGI INFO : which means digital information. Since my mission was to teach / create awareness about digital skills, hence the name.
+
 
 ## Team | Colloboration 
 
