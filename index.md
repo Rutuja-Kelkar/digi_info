@@ -21,7 +21,7 @@
 
 Peak pandemic hit india, colleges were shut down and running online. Since I had few placement offers plus loads of time at home, I decided to experiment and build some cool stuff.
   
-  Since it was complete lockdown in 2020, we were forced to sit at home and the only things that I could experiment was with a laptop and an internet connection. I started searching what was I good at and found : I was decent at delivering topics since I had done it multiple times at my college and events. Plus I had observed a tremendous skill gap between what was taught in college and present industry requirements. So, I decided to start a skill development platform to help build real life skills to engineering grads / learners. 
+  Due to complete lockdown in 2020, I was forced to sit at home and the only things that I could experiment was with a laptop and an internet connection. I started searching what was I good at and found : I was decent at delivering topics since I had done it multiple times at my college and events. Plus I had observed a tremendous skill gap between what was taught in college and present industry requirements. So, I decided to start a skill development platform to help build real life skills to engineering grads / learners. 
   
   I conducted webinars, open discussion sessions, developed an integrated webinar system that had automated emails, certificate generation, registration forms, timely reminders, integrations and by oct 2020 I had a whole handbook on "How to conduct webinar's from scratch".
   
@@ -44,7 +44,7 @@ Peak pandemic hit india, colleges were shut down and running online. Since I had
   9.  How to stand out and compete with exiting solutions in the market.
   10. How to tap in people's mind about your product / idea
   11. How to deliver topics effectively.
-  12. Ho to talk with people in a convincing manner
+  12. How to talk with people in a convincing manner
   13. How to get things done in zero budget (because I had no budget at that point of time)
   14. How to build a team etc 
 
@@ -52,7 +52,7 @@ Damn! I knew nothing !
    
    But I learnt it all because I was resilient enough to say to myself : "Hey there, you'll figure out + there was clear target in my mind". I kept on failing, but everytime I failed or people around me pointed my mistakes, those points were noted and I made sure it was improved the next time. I was able to pull this off in less than 3 months, observed myself working lightning fast and improvise on the way. 
 
-Learnt all this and more because I loved solving these high quality challenges. I studied community and marketing models of companies in depth. You may have a great product, but unless you have great distribution which is value based, your customers will not stick with you. A community model has the power to penetrate to your customers heart.
+Learnt all this and more because I loved solving these high quality challenges. I studied community and marketing models of companies in depth. You may have a great product, but unless you have value based targeted distribution, your customers will not stick with you. A community model has the power to penetrate to your customers heart.
 
 All my learnings, process and set up is documented for future use. I love documentating stuff! I can go back to conducting webinars anytime I wish too! And Guess what all this was built without spending a single penny, all I spent was my time, curiosity, power supply and an internet connection.
 <br>
@@ -136,8 +136,9 @@ Take a look at my simple [Ideal customer profile](https://plastic-cabinet-72f.no
 #### **Expected vs actual reports** :
 The best and simple method I used to create report and track visibility of the project were google sheets and notion workspace.
 
-- [Check out](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327) all project reports \
+- [Check out](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327) all project reports 
 - [Overall Project report](https://plastic-cabinet-72f.notion.site/Overall-project-report-digi-info-ae2b54c79d444b5f857aaf1f6d747bb0) Contains the following :
+- 1.  How to build a webinar system.
   - Digi info growth in percentage vs time 
   - Expected KPI vs achieved KPI
   - Quality of webinar delivery in percentage vs s.no of webinar
@@ -146,7 +147,7 @@ The best and simple method I used to create report and track visibility of the p
   - Audience conversion numbers (community growth) vs s.no of webinar
   - Design / dev / QA productivity vs timeline
   - Audience satisfaction in percentage vs s.no of webinar
-  - Expenditure (my time & effort + a laptop connection) in percentage vs s.no of webinar \
+  - Expenditure (my time & effort + a laptop connection) in percentage vs s.no of webinar 
 - [1st webinar report](https://plastic-cabinet-72f.notion.site/1st-webinar-reports-b05c925080fe43488a67b5ce4fa9dbc4)<br />
 - [2st webinar report](https://plastic-cabinet-72f.notion.site/2nd-webinar-reports-9e7612e2482c4ae182fc5e0008429d1c)<br />
 - [3rd webinar report](https://plastic-cabinet-72f.notion.site/3rd-webinar-reports-3ebdaef8daa8494b8256092709d3e5da)<br />
