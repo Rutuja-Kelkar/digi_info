@@ -166,7 +166,7 @@ Below are the individual webinar reports :
 ## Roadmap| Timeline
 <br>
 #### Created a visual roadmap :
-Now that I had identified my problem statement and clear target audience, my next hurdle was to takle : "How exactly I'm I going to achieve this ?"
+Since I identified my exact problem statement and clear target audience, my next hurdle was to takle : "How exactly I'm I going to achieve this ?"
 
 Below is a mind map I created to break down the problem into smaller working parts to create an integrated working webinar system
 
@@ -174,20 +174,18 @@ Below is a mind map I created to break down the problem into smaller working par
 
 Here's a [DIGI INFO Mindmap.pdf](https://github.com/Rutuja-Kelkar/digi_info/files/8261278/DIGI.INFO.pdf) for better readability
 
-I also had to come up with a meaningful name for my venture : DIGI INFO, which means digital information. Since my mission was to teach / create awareness about digital skills, hence the name.
+I also came up with a meaningful name for my venture : DIGI INFO, which means digital information. Since my mission was to teach / create awareness about digital skills, hence the name.
 
 
 
 
 ## Team | Colloboration 
 <br>
-I built a 2 member team - 
+My team consisted of 2 juniors from my college - Adarsh and Vrushab. They helped me in ideation, planning, web design, social media marketing, content marketing and webinar process flow.
 
-## Design
+## Planning, development and Quality assurance
 
-## Development 
-
-## Quality assurance
+## Audience analysis
 
 ## Live webinar experiences
 
