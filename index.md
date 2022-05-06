@@ -138,15 +138,15 @@ The best and simple method I used to create report and track visibility of the p
 
 - [Check out](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327) all project reports 
 - [Overall Project report](https://plastic-cabinet-72f.notion.site/Overall-project-report-digi-info-ae2b54c79d444b5f857aaf1f6d747bb0) Contains the following :
-- - Digi info growth in percentage vs time
-- - Digi info growth in percentage vs time
-- - Quality of webinar delivery in percentage vs s.no of webinar
-- - Speed of execution in percentage vs time
-- - Individual contributor productivity in percentage vs s.no of webinar
-- - Audience conversion numbers (community growth) vs s.no of webinar
-- - Design / dev / QA productivity vs timeline
-- - Audience satisfaction in percentage vs s.no of webinar
-- - Expenditure (my time & effort + a laptop connection) in percentage vs s.no of webinar 
+  - Digi info growth in percentage vs time<br />
+  - Digi info growth in percentage vs time<br />
+  - Quality of webinar delivery in percentage vs s.no of webinar<br />
+  - Speed of execution in percentage vs time<br />
+  - Individual contributor productivity in percentage vs s.no of webinar<br />
+  - Audience conversion numbers (community growth) vs s.no of webinar<br />
+  - Design / dev / QA productivity vs timeline<br />
+  - Audience satisfaction in percentage vs s.no of webinar<br />
+  - Expenditure (my time & effort + a laptop connection) in percentage vs s.no of webinar<br />
 
 
 Below are the individual webinar reports : 
